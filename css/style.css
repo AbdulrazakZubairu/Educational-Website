@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #d5a6bd;
+    position: absolute;
+    width: 100%;
+    color: maroonss;
+    margin-top: -145px;
+    height: 10vh;
+}
+
+
+header h1{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 30px;
+    left: 30px;
+    font-size: 60px;
+}
+.nav{
+    position: absolute;
+    width: 100%;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.nav a{
+    position: relative
+    left 35px;
+    top: 20px;
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-family:Arial;
+}   
+
+
+a{
+    margin-left: 20px;
+    font-family: Arial;
+    color: silver;
+}
+a:hover{
+    color: maroon;
+}
+
+.search{
+    width: 330px;
+    float: left;
+    margin-left: 1000px;
+    margin-top: 20px;
+}
+.srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid maroon;
+    margin-top: -7px;
+    color: #ffff;
+    border-right: none;
+    font-size: 16px;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background: #4c1130;
+    border: 2px solid #4c1130;
+    margin-top: -7px;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.btn:focus{
+    outline: none;
+}
+.srch:focus{
+    outline: none;
+}
+body{
+    background: linear-gradient(50deg,#c27ba0 0%,#c27ba0 50%,#741b47 30%,#741b47 100%);
+   
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+    margin-top: 70px;
+}
+
+.par .content{
+    padding-left: 20px;
+    padding-bottom:25px;
+    font-family: Arial;
+    letter-spacing: 3px;
+    line-height: 30px;
+    
+}
+
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 70px;
+    padding-left: 20px;
+    margin-top: 9%;
+    margin-top: 12%;
+}    
+p{
+    margin-top: 20px;
+    letter-spacing: 3px;
+}
+#ot{
+    color:#4c1130 ;
+}
+.cn{
+    margin-top: -80px;
+    width: 100px;
+    background: #4c1130;
+    width: 160px;
+    height: 30px;
+    border: none;
+    font-size: 18px;
+    border-radius: 20px;
+    
+}
+.content span{
+    color:#4c1130;
+    font-size: 60px;
+}
+img{
+    margin-left: 800px;
+    margin-top: -270px;
+    border-radius: 50px;
+    
+}
+
+marquee{
+    margin-top: 30px;
+    background: transparent;
+    height: 5vh;
+}

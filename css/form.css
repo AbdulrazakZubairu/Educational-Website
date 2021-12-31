@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(50deg,#c27ba0 0%,#c27ba0 50%,#741b47 30%,#741b47 100%);
+    font-size: 14px;
+}
+.container{
+    width: 50%;
+    margin: 50px auto;
+}
+h1{
+    color: #fff;
+    text-align: center;
+    
+}
+
+.input-row{
+  
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+}
+
+input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+button{
+    background: #4c1130;
+    width: 100px;
+    border: none;
+    outline: none;
+    color: #fff;
+    height: 35px;
+    border-radius: 30px;
+    margin: 20px
+}
